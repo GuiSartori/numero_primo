@@ -1,4 +1,4 @@
-#Versão 5.0
+#Versão 6.0
 
 num=100
 count = 0
